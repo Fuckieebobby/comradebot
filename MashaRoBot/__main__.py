@@ -73,7 +73,7 @@ telegram Group management with lots of features.
 buttons = [
     [
         InlineKeyboardButton(
-            text="🥵ᴀᴅᴅ ᴍᴇ🥵, url="t.me/cutie_x_robot?startgroup=true"),
+            text="🥵ᴀᴅᴅ ᴍᴇ🥵", url="t.me/cutie_x_robot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="Cᴏᴍᴍᴀɴᴅs ❔", callback_data="help_back"),
